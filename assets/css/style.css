@@ -28,6 +28,7 @@ nav {
     float: right;
     color: #BAABB5;
     text-align: bottom;
+    padding-top: 50px;
 }
 
 a {
@@ -42,6 +43,25 @@ a {
     /*height: 100%;*/
     width: 100%;
     /*max-width: 960px;*/
+}
+
+#quiz {
+    background-color: #BAABB5;
+}
+
+#timer {
+    float: right;
+}
+
+#start-button,
+#done {
+    margin: 0 auto;
+}
+
+#results {
+    margin: auto;
+    background-color: #BAABB5;
+
 }
 
 footer {
